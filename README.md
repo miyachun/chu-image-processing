@@ -2,10 +2,6 @@
 https://ai.google.dev/edge/mediapipe/framework/getting_started/troubleshooting?hl=zh-tw  
 pip install msvc-runtime  #直接安裝在本機  
 
-02->https://reurl.cc/gezKnN  05->https://reurl.cc/965MRv  
-03->https://reurl.cc/zplkm6  
-
-
 -虛擬環境安裝-  
   
 1->環境變數  
