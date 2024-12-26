@@ -1,12 +1,3 @@
-No module named 'numpy'  
-pip install numpy  
-  
-No module named 'cv2'  
-pip install opencv-python  
-  
-No module named 'mediapipe'  
-pip install mediapipe  
-
 -Windows 上的 Python DLL 載入失敗-  
 https://ai.google.dev/edge/mediapipe/framework/getting_started/troubleshooting?hl=zh-tw  
 pip install msvc-runtime  #直接安裝在本機  
